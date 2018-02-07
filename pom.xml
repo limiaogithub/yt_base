@@ -5,7 +5,7 @@
     <artifactId>yt_base</artifactId>
     <version>1.0.0</version>
     <url>https://github.com/limiaogithub/yt_base</url>
-    <name>yt_mybatis</name>
+    <name>yt_base</name>
     <description>base exceptions</description>
     <scm>
         <connection>scm:git@github.com:limiaogithub/yt_base.git</connection>
